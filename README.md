@@ -18,7 +18,7 @@ Me gusta aprender nuevas tecnologías y construir soluciones eficientes que inte
 |-----------|----------------|
 | 🐍 **Python** | Desarrollo backend, scripting y lógica de aplicaciones |
 | 🌐 **HTML** | Desarrollo web frontend y estructuración de interfaces |
-| 🐚 **Shell/Bash (4.8%)** | Automatización y scripting del sistema |
+| 🐚 **Shell/Bash ** | Automatización y scripting del sistema |
 
 #### 🧠 Áreas de Expertise
 - ⚙️ **Desarrollo Web Full-Stack** – Combinación de Python backend con frontend HTML  
