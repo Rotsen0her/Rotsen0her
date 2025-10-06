@@ -1,7 +1,7 @@
 <!-- 👋 ¡Hola mundo! Soy Néstor Hernández -->
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00BFFF;">Néstor Hernández</span></h1>
-<h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | 💡 Apasionado por el Desarrollo Web y la Automatización</h3>
+<h3 align="center">🎓 Estudiante de Ingeniería de Sistemas | 💡 Apasionado por el Desarrollo Web, la Automatización y el DevOps</h3>
 
 ---
 
@@ -26,6 +26,27 @@ Me gusta aprender nuevas tecnologías y construir soluciones eficientes que inte
 - 🧩 **Desarrollo de Interfaces de Usuario** – Creación de interfaces web interactivas  
 - 🤖 **Automatización con Scripts** – Shell scripting para tareas repetitivas  
 - 🏗️ **Arquitectura Web** – Integración de componentes frontend y backend  
+
+---
+
+### 🐳 Despliegue, DevOps y Mantenimiento
+Soy capaz de realizar **despliegues web completamente dockerizados**, gestionando entornos reproducibles y escalables.  
+También aplico buenas prácticas de **DevOps**, asegurando calidad, disponibilidad y monitoreo continuo.
+
+**Áreas clave:**
+- 🧰 **Docker & Docker Compose** – Contenerización de servicios backend y frontend  
+- 🔁 **CI/CD (Integración y Despliegue Continuo)** – Automatización de pruebas y despliegues con GitHub Actions o similares  
+- 🧪 **Testing** – Validación de funcionalidades y calidad del código antes del despliegue  
+- 📈 **Monitoreo & Logs** – Seguimiento del rendimiento y detección de errores  
+- 💾 **Backups & Recuperación** – Implementación de copias de seguridad para entornos críticos  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Testing-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
