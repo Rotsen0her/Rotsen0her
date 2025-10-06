@@ -18,7 +18,7 @@ Me gusta aprender nuevas tecnologías y construir soluciones eficientes que inte
 |-----------|----------------|
 | 🐍 **Python** | Desarrollo backend, scripting y lógica de aplicaciones |
 | 🌐 **HTML** | Desarrollo web frontend y estructuración de interfaces |
-| 🐚 **Shell/Bash ** | Automatización y scripting del sistema |
+| 🐚 **Shell/Bash** | Automatización y scripting del sistema |
 
 #### 🧠 Áreas de Expertise
 - ⚙️ **Desarrollo Web Full-Stack** – Combinación de Python backend con frontend HTML  
@@ -38,17 +38,6 @@ Me gusta aprender nuevas tecnologías y construir soluciones eficientes que inte
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nestorhernandez&show_icons=true&theme=tokyonight" alt="estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorhernandez&layout=compact&theme=radical" alt="lenguajes más usados" />
 </p>
 
 ---
