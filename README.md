@@ -65,7 +65,7 @@ También aplico buenas prácticas de **DevOps**, asegurando calidad, disponibili
 
 ### 🏆 Logros y Actividad
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nestorhernandez&theme=dracula&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rotsen0her&theme=dracula&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
 </p>
 
 ---
