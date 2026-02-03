@@ -62,9 +62,9 @@ Me enfoco en crear **entornos dockerizados** que garanticen la reproducibilidad 
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rotsen0her&show_icons=true&theme=dracula&hide_border=123" alt="Estadísticas de Néstor" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rotsen0her&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Néstor" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotsen0her&layout=compact&theme=dracula&hide_border=123" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotsen0her&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
