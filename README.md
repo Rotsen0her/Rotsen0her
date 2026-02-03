@@ -60,9 +60,11 @@ Me enfoco en crear **entornos dockerizados** que garanticen la reproducibilidad 
 
 ---
 
-### 🏆 Logros y Actividad
+### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rotsen0her&theme=dracula&margin-w=10&margin-h=10&no-bg=true" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rotsen0her&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Néstor" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotsen0her&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
